@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/wiredwave/static/css/main.bccbd7b5.css",
+    "main.js": "/wiredwave/static/js/main.4ebee096.js",
+    "static/js/787.1937f22b.chunk.js": "/wiredwave/static/js/787.1937f22b.chunk.js",
+    "static/media/post-item2.jpg": "/wiredwave/static/media/post-item2.0e2fe709ef58c09362f9.jpg",
+    "static/media/home.png": "/wiredwave/static/media/home.9963ad117f9bc992bd0a.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/wiredwave/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/pc.png": "/wiredwave/static/media/pc.588781d4fc335d760954.png",
+    "static/media/single-image1.png": "/wiredwave/static/media/single-image1.b9cb6d0f12b5b806ecc3.png",
+    "static/media/uniter.png": "/wiredwave/static/media/uniter.51ade2907cb652f5e148.png",
+    "static/media/banner-image.png": "/wiredwave/static/media/banner-image.480308bd0aff70124c87.png",
+    "static/media/insta-item4.jpg": "/wiredwave/static/media/insta-item4.eb70d20e5ebf2955887e.jpg",
+    "static/media/Montserrat-Bold.ttf": "/wiredwave/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/phone.png": "/wiredwave/static/media/phone.c47759d7ed6e8493cacc.png",
+    "static/media/isalmou.jpg": "/wiredwave/static/media/isalmou.06b9618c54fb33ab71f3.jpg",
+    "static/media/insta-item3.jpg": "/wiredwave/static/media/insta-item3.bc4ce339586160857493.jpg",
+    "static/media/fontawesome-webfont.eot": "/wiredwave/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/wiredwave/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/post-item1.jpg": "/wiredwave/static/media/post-item1.a3497e96c5a266870f20.jpg",
+    "static/media/insta-item1.jpg": "/wiredwave/static/media/insta-item1.475003fc82d3ed4ccbc3.jpg",
+    "static/media/Poppins-Regular.ttf": "/wiredwave/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/post-item3.jpg": "/wiredwave/static/media/post-item3.a36e92473c6cf232e6e5.jpg",
+    "static/media/Poppins-Medium.ttf": "/wiredwave/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-Bold.ttf": "/wiredwave/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/insta-item2.jpg": "/wiredwave/static/media/insta-item2.2df5a2f37ab7eadc4122.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/wiredwave/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/wiredwave/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/insta-item5.jpg": "/wiredwave/static/media/insta-item5.e141e817ee5cdf8abecf.jpg",
+    "static/media/about1.jpeg": "/wiredwave/static/media/about1.1a8358ce85024611b9e1.jpeg",
+    "static/media/about2.webp": "/wiredwave/static/media/about2.561d69f70c6fb8b6e604.webp",
+    "index.html": "/wiredwave/index.html",
+    "main.bccbd7b5.css.map": "/wiredwave/static/css/main.bccbd7b5.css.map",
+    "main.4ebee096.js.map": "/wiredwave/static/js/main.4ebee096.js.map",
+    "787.1937f22b.chunk.js.map": "/wiredwave/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bccbd7b5.css",
+    "static/js/main.4ebee096.js"
+  ]
+}
