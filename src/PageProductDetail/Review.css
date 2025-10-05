@@ -1,0 +1,32 @@
+.restaurant-detailed-ratings-and-reviews hr {
+    margin: 0 -24px;
+}
+#imgRV {
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+    object-fit: cover;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
+}
+#btnT{
+    background-color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+}
+#btnT:hover{
+    background-color: #fff;
+    color: var(--primary-color);
+}
+.reviews-members .media .mr-3 {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+}
+.rounded-pill {
+    border-radius: 50rem !important;
+}
+.restaurant-detailed-ratings-and-reviews hr {
+    margin: 0 -24px;
+}
+#container {
+    background-color: #f1f1f1;
+}
